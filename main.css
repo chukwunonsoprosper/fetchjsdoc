@@ -7,7 +7,7 @@
     width: 0;
 }
 
-.menu {
+#menu {
     display: none;
     cursor: pointer;
 }

@@ -3,10 +3,10 @@
         display: none;
     }
 
-    .menu {
+    #menu {
         display: block;
         position: absolute;
-        right: 20px;
+        right: 30px;
     }
 
         .thefetchbody {
