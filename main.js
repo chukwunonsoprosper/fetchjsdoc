@@ -1,0 +1,1 @@
+function showdiv(){let e=document.getElementById("sidenaga");"block"===e.style.display?e.style.display="none":e.style.display="block"}function dosome(){document.getElementById("sidenaga").style.display="none"}
